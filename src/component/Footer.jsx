@@ -6,7 +6,7 @@ function Footer() {
         <div className="footer__upper-container">
         <div className="footer__left-container footer__container">
             <div className="footer__heading footer__logo-container">
-            <img src="./public//assets/logo/Logo.png" alt="Raul Tindogan" className="footer__logo" />
+            <img src="assets/logo/Logo.png" alt="Raul Tindogan" className="footer__logo" />
             </div>
             <blockquote>
             <p>"I hate <span className="highlight">PERFECTION</span>, to be perfect is to be unable to improve any further"</p>

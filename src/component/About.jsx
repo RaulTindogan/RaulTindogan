@@ -7,7 +7,7 @@ function About() {
       <div className="about__container">
         <div className="about__question-container">
           <div className="about__image-holder">
-            <img className="about__image" src="./public/assets/persons/about-me.png" alt="Mystery Man" />
+            <img className="about__image" src="assets/persons/about-me.png" alt="Mystery Man" />
             <p className="question-mark">?</p>
           </div> 
         </div>

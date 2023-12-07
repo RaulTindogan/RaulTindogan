@@ -13,7 +13,7 @@ function Project() {
         "fa-brands fa-css3-alt project__used-tools",
         "fa-brands fa-square-js project__used-tools"
       ],
-      projectImage: "./public/assets/projects/MusicaLibre.PNG"
+      projectImage: "assets/projects/MusicaLibre.PNG"
     },
     {
       projectTitle: "RecipeHero",
@@ -24,7 +24,7 @@ function Project() {
         "fa-brands fa-css3-alt project__used-tools",
         "fa-brands fa-square-js project__used-tools"
       ],
-      projectImage: "./public/assets/projects/recipehero.PNG"
+      projectImage: "assets/projects/recipehero.PNG"
     },
     {
       projectTitle: "Pomodoro Timer",
@@ -35,7 +35,7 @@ function Project() {
         "fa-brands fa-css3-alt project__used-tools",
         "fa-brands fa-square-js project__used-tools"
       ],
-      projectImage: "./public/assets/projects/pomodoro-project-2.PNG"
+      projectImage: "assets/projects/pomodoro-project-2.PNG"
     }, 
     {
       projectTitle: "Basic Calculator",
@@ -46,7 +46,7 @@ function Project() {
         "fa-brands fa-css3-alt project__used-tools",
         "fa-brands fa-square-js project__used-tools"
       ],
-      projectImage: "./public/assets/projects/basic-calculator-project-2.PNG"
+      projectImage: "assets/projects/basic-calculator-project-2.PNG"
     },
     {
       projectTitle: "Todo List",
@@ -57,7 +57,7 @@ function Project() {
         "fa-brands fa-css3-alt project__used-tools",
         "fa-brands fa-square-js project__used-tools"
       ],
-      projectImage: "./public/assets/projects/todo-app-project-2.PNG"
+      projectImage: "assets/projects/todo-app-project-2.PNG"
     },
     {
       projectTitle: "NFT-card",
@@ -67,7 +67,7 @@ function Project() {
         "fa-brands fa-html5 project__used-tools", 
         "fa-brands fa-css3-alt project__used-tools",
       ],
-      projectImage: "./public/assets/projects/ntf-card-project-2.PNG"
+      projectImage: "assets/projects/ntf-card-project-2.PNG"
     },
     {
       projectTitle: "New Year Countdown",
@@ -78,7 +78,7 @@ function Project() {
         "fa-brands fa-css3-alt project__used-tools",
         "fa-brands fa-square-js project__used-tools"
       ],
-      projectImage: "./public/assets/projects/countdown-project-2.PNG"
+      projectImage: "assets/projects/countdown-project-2.PNG"
     },
     {
       projectTitle: "XYZ Pattern Generator",
@@ -89,7 +89,7 @@ function Project() {
         "fa-brands fa-css3-alt project__used-tools",
         "fa-brands fa-square-js project__used-tools"
       ],
-      projectImage: "./public/assets/projects/pattern-generator-project-2.PNG"
+      projectImage: "assets/projects/pattern-generator-project-2.PNG"
     },
     {
       projectTitle: "Password Generator",
@@ -100,7 +100,7 @@ function Project() {
         "fa-brands fa-css3-alt project__used-tools",
         "fa-brands fa-square-js project__used-tools"
       ],
-      projectImage: "./public/assets/projects/secpass-2.PNG"
+      projectImage: "assets/projects/secpass-2.PNG"
     },
   ];
 

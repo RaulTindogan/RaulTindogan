@@ -11,7 +11,7 @@ function Hero_Section() {
         </div>
       </div>
       <div className="main__right-container">
-          <img className="my-image" src="./public/assets/persons/dp.png" alt="Raul Tindogan" />
+          <img className="my-image" src="assets/persons/dp.png" alt="Raul Tindogan" />
       </div>
     </section>
   )
