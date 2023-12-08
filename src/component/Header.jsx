@@ -33,7 +33,7 @@ function Header() {
                 <a href="#home" className={`nav__desktop--link ${activeItem === 'home' ? 'desktop__navlink--isActive' : ''}`} onClick={() => handleItemClick('home')}><li>HOME</li></a>
                 <a href="#about" className={`nav__desktop--link ${activeItem === 'about' ? 'desktop__navlink--isActive' : ''}`} onClick={() => handleItemClick('about')}><li>ABOUT</li></a>
                 <a href="#project" className={`nav__desktop--link ${activeItem === 'project' ? 'desktop__navlink--isActive' : ''}`} onClick={() => handleItemClick('project')}><li>PROJECTS</li></a>
-                <li><a href="#" className="resume--button">RESUME</a></li>
+                <li><a href="assets/TINDOGAN_RAUL_CV.pdf" className="resume--button">RESUME</a></li>
             </ul>
             <div className="nav__hamburger-menu-container" id="burger-menu">
                 <i className={burger_icon} onClick={burgerClicked}></i>
@@ -44,7 +44,7 @@ function Header() {
                 <a href="#home" className="nav__mobile--link"><li >HOME</li></a>
                 <a href="#about" className="nav__mobile--link"><li>ABOUT</li></a>
                 <a href="#project" className="nav__mobile--link"><li>PROJECTS</li></a>
-                <li className="resume--link"><a href="#" className="resume--button">RESUME</a></li>
+                <li className="resume--link"><a href="assets/TINDOGAN_RAUL_CV.pdf" className="resume--button">RESUME</a></li>
                 {/* <a href="#" className="nav__mobile--link resume--link"><li>RESUME</li></a> */}
             </ul>
         </div>
