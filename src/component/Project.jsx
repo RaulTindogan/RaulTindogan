@@ -118,8 +118,8 @@ function Project() {
               ))}
               </div>
               <div className="project__icon-container">
-                <a className="project-btn" href={element.webLink}>View App <i className="fa-regular fa-eye"></i></a>
-                <a className="project-btn" href={element.githubLink}>View Code <i className="fa-brands fa-github"></i></a>
+                <a className="project-btn" href={element.webLink} target='_blank'>View App <i className="fa-regular fa-eye"></i></a>
+                <a className="project-btn" href={element.githubLink} target='_blank'>View Code <i className="fa-brands fa-github"></i></a>
               </div>
             </div>
           ))
